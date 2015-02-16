@@ -1,0 +1,16 @@
+{
+  "name": "wk6node",
+  "version": "0.0.0",
+  "description": "testing the npm system",
+  "main": "main.js",
+  "author": "rb1econ",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "request": "~2.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Testing colorful stuff"
+  }
+}
